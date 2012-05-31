@@ -1,6 +1,8 @@
+var MooToggles;
+
 (function($) {
 
-var MooToggles = new Class({
+MooToggles = new Class({
 
   Implements : [Options, Events],
 
